@@ -1,0 +1,6 @@
+Instrucciones
+
+comandos git
+git add
+git status
+git diff
